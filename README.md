@@ -1,4 +1,4 @@
-# Temperature Menu-for CLI
+# Temperature Menu for CLI
 Author: Curran Flanders
 
 Completion Date: April 2022
